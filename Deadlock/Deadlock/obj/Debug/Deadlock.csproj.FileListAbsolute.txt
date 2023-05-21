@@ -1,0 +1,7 @@
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.AssemblyReference.cache
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\obj\Debug\Deadlock.csproj.CoreCompileInputs.cache
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+D:\Coding Projects\CSharpProjects\Deadlock\Deadlock\obj\Debug\Deadlock.pdb
